@@ -1,0 +1,16 @@
+{
+    "details":[
+        {"id":6201,"name":"Abhisek","email":"abhisek@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6202,"name":"Amrutha","email":"amrutha@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6203,"name":"Sam","email":"sam@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6204,"name":"Sameer","email":"sammer@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6205,"name":"Keerthana","email":"keerthana@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6206,"name":"Ram","email":"ram@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6207,"name":"Tejas","email":"tejas@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6208,"name":"Shukla","email":"shukla@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6209,"name":"Salmaan","email":"salmaan@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6210,"name":"Dhruv","email":"dhruv@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"},
+        {"id":6211,"name":"Farhaan","email":"farhaan@gmail.com","address":"Banglore","contact":9632523659,"service":"carpentry","team":"repair","status":"pending","date":"12/02/2022"}
+    
+    ]
+}
