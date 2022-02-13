@@ -13,8 +13,5 @@
         {"id":5211,"name":"Farhaan","gender":"male","email":"farhaan@gmail.com","address":"Banglore","salary":20000,"contact":9632523659,"designation":"worker","service":"carpentry","team":"repair"}
     
     ]
-    $scope.orderByMe = function(x) {
-    $scope.myOrderBy = x;
-  }
 }
 
